@@ -108,17 +108,6 @@ Atuação em:
 
 ---
 
-# 📈 Atualmente estudando
-
-- Desenvolvimento Back-end
-- Docker
-- Automação de Processos
-- APIs REST
-- Banco de Dados
-- Cloud Computing
-
----
-
 # 📫 Contato
 
 <p>
