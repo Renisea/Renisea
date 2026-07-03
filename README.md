@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:5B21B6,30:7C3AED,70:A855F7,100:D8B4FE&text=Renisea%20Ribeiro&fontColor=ffffff&fontSize=52&fontAlign=50&fontAlignY=35&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:5B21B6,30:7C3AED,70:A855F7,100:D8B4FE&text=Renísea%20Ribeiro&fontColor=ffffff&fontSize=52&fontAlign=50&fontAlignY=35&animation=fadeIn"/>
 
 <p align="center">
 <a href="https://git.io/typing-svg">
@@ -111,10 +111,10 @@ Atuação em:
 # 📫 Contato
 
 <p>
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/Renisea">
 <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
 </a>
-<a href="https://www.linkedin.com/">
+<a href="https://www.linkedin.com/in/ren%C3%ADsea-pinho-7773681a8/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:renisearibeiro@gmail.com">
